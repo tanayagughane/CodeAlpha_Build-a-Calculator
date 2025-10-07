@@ -51,3 +51,11 @@ Buttons resize and rearrange to fit both small and large displays seamlessly.
 Modern dark theme with gradient buttons.
 Smooth hover and press animations using CSS transitions.
 Real-time feedback for every button press.
+
+
+👩‍💻 About the Creator
+
+Name: Tanaya Gughane
+Qualification: B.E. in Computer Science and Engineering 
+Email: tanaya16gughane@gmail.com
+Specialization: Frontend Development & Web Design
